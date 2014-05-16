@@ -1,0 +1,17 @@
+Mt_rRNA
+Mt_tRNA
+Mt_tRNA_pseudogene
+miRNA
+miRNA_pseudogene
+misc_RNA
+misc_RNA_pseudogene
+rRNA
+rRNA_pseudogene
+scRNA_pseudogene
+snRNA
+snRNA_pseudogene
+snoRNA
+snoRNA_pseudogene
+tRNA
+tRNA_pseudogene
+tRNAscan
